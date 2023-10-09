@@ -8,6 +8,7 @@
  
  3. Flood forecasting service. I made a python program with which, according to satellite images, it is possible to prevent floods and save many buildings from flooding. Link to the project: https://github.com/NikitaKorablev/Analysis-of-satellite-images
 
+ 4. My team and I are winners of the hackathon "Digital Breakthrough: Artificial Intelligence Season". We took the second place in the case from the Russian Railways company (РЖД) - "Coordination of the passage of car traffic". Here you can see the solution we wrote: https://github.com/Atikin-NT/hacks-ai
 ---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaKorablev&theme=vue)
