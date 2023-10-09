@@ -1,5 +1,5 @@
 ### Hi there 👋
-📫 How to reach me: You can find me on telegram https://t.me/LordLeprikon
+📫 How to reach me: You can find me on [telegram](https://t.me/LordLeprikon)
 
 ## My Projects
  1. My site: https://24sudak24.ru/. I became interested in web development, so I decided to write a website for my friends.
